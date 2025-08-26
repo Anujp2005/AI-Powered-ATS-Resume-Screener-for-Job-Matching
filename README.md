@@ -18,7 +18,7 @@ conda create -p venv python==3.12 -y
 
 Step 2:
 # Activate environment
-conda activate ./venv
+conda activate 
 
 Step 3:
 # Install dependencies from requirements.txt
